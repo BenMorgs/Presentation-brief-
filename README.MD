@@ -5,8 +5,8 @@
 ### Background (If needed) – Short history on how far virtual reality has come
 ### Outline/agenda (idea of where you’re going)
 ### Sections (should be toward delivering on objective)
-o	Lead in
-o	Content (rule of three)
-o	Key takeaway – summary
+-   Lead in
+-   Content (rule of three)
+-   Key takeaway – summary  
 
 ### Conclusion/summary (should mirror introduction and deliver on objective)
