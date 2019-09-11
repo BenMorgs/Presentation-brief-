@@ -8,4 +8,5 @@
 o	Lead in
 o	Content (rule of three)
 o	Key takeaway – summary
+
 ####### Conclusion/summary (should mirror introduction and deliver on objective)
